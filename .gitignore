@@ -1,0 +1,7 @@
+.venv
+.env
+.cache
+__pycache__
+litellm-1.60.0-py3-none-any.whl
+.vscode
+db/
